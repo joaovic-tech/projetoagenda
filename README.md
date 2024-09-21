@@ -2,6 +2,14 @@
 
 > Criado no curso de javascript/typescript avançado -> [repositório do curso completo](https://github.com/joaovic-tech/curso-js/)
 ---
+
+Temas estudados
+
+* Nginx
+* PM2
+
+---
+
 Padrão - MVC
 
 - M - Model
