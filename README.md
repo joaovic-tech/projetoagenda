@@ -1,8 +1,9 @@
-# Projeto Agenda
 
 ## 1. Introdução
 
 O projeto **Agenda** é uma aplicação que permite aos usuários criar, editar e deletar seus contatos. Este projeto foi desenvolvido durante o curso de JavaScript/TypeScript avançado. Para mais informações sobre o curso, consulte o [repositório do curso completo](https://github.com/joaovic-tech/curso-js/).
+
+![](./template/template.webp)
 
 ---
 
@@ -31,7 +32,7 @@ Abaixo estão algumas imagens que ilustram o funcionamento do projeto:
 
 |             Projeto              | Servidor criado com PM2 e Nginx |
 | :------------------------------: | :-----------------------------: |
-| ![](./templates/application.png) |  ![](./templates/teminal.png)   |
+| ![](./template/application.png) |  ![](./template/teminal.png)   |
 
 ---
 
@@ -39,8 +40,8 @@ Abaixo estão algumas imagens que ilustram o funcionamento do projeto:
 
 A seguir, uma gravação que demonstra o uso da aplicação:
 
-<video width="640" height="360" controls>
-  <source src="./templates/rec.webm" type="video/webm">
+<video width="640" controls>
+  <source src="./template/rec.mp4" type="video/mp4">
   Seu navegador não suporta o formato de vídeo.
 </video>
 
